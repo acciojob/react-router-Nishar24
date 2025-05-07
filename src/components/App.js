@@ -24,14 +24,10 @@ const Home = () => {
 };
 const About = () => {
   return (
-    <div>
-    <h1>
-     About
-    </h1>
-    <p>This is a sample React Router program.</p>
-    </div>
+    <h1>This is a sample React Router program.</h1>
   );
 };
+
 
 const App = () => {
   return (
